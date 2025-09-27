@@ -1,26 +1,28 @@
-2.	WookStagram: Java Swing 기반 인스타그램 기능 구현
+WookStagram: Java Swing 기반 인스타그램 기능 구현
+
 개요
+
 서버나 데이터베이스 없이 Java 파일 입출력(File I/O)만으로 인스타그램의 핵심 소셜 네트워킹 기능을 구현한 데스크톱 애플리케이션입니다.
 
 구현한 기능
 
-계정 관리: 회원가입 및 로그인 기능
+1. 계정 관리: 회원가입 및 로그인 기능
 
 <img width="466" height="457" alt="image" src="https://github.com/user-attachments/assets/50f00eb3-9cb4-4a81-ba45-1e842c329c3a" />
 
-메인 피드: 팔로우한 유저들의 게시물을 시간 순으로 정렬하여 표시 
+2. 메인 피드: 팔로우한 유저들의 게시물을 시간 순으로 정렬하여 표시 
 
 <img width="481" height="475" alt="image" src="https://github.com/user-attachments/assets/fe0fd362-d049-44b2-9075-aca63ddc1163" />
 
-사용자 검색 및 팔로우: 다른 사용자를 검색하고 팔로우/언팔로우 관계 관리 
+3. 사용자 검색 및 팔로우: 다른 사용자를 검색하고 팔로우/언팔로우 관계 관리 
 
 <img width="475" height="464" alt="image" src="https://github.com/user-attachments/assets/c45e0374-c207-4932-afab-2616e006443e" />
 
-게시물 작성: 다중 사진 업로드 및 텍스트 작성을 통한 게시물 생성 
+4. 게시물 작성: 다중 사진 업로드 및 텍스트 작성을 통한 게시물 생성 
 
 <img width="529" height="518" alt="image" src="https://github.com/user-attachments/assets/06905059-4b5c-46d6-b9c0-1327e2961a7b" />
 
-프로필 페이지: 사용자 정보, 게시물 썸네일 목록 확인 및 프로필 편집
+5. 프로필 페이지: 사용자 정보, 게시물 썸네일 목록 확인 및 프로필 편집
 
  <img width="435" height="424" alt="image" src="https://github.com/user-attachments/assets/0e8ee6c5-5724-4a18-98ee-2c55fa4ff271" />
  
